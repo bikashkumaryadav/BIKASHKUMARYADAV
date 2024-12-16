@@ -21,7 +21,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58)](https://www.geeksforgeeks.org/user/yaduvanshibikash1998/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFFFF)](https://leetcode.com/u/yaduvanshibikash1998/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=FFFFFF)](https://www.codechef.com/users/bikash_034)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=FF0000)](https://codeforces.com/profile/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=FF0000)](https://codeforces.com/) 
 #
 
 
