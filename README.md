@@ -125,7 +125,7 @@
 
 
 
-## GitHub Contribution Graph
+## Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=034-BikashKumarYadav&theme=github)
 
 
