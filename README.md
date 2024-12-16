@@ -51,7 +51,7 @@
  ## Relevant Coursework
  Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, Cloud Computing, Software 
  Engineering Principles, Distributed Technology
-
+<!--
 ## Tools and Technologies
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=034-BikashKumarYadav&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
@@ -119,16 +119,26 @@
 
 <p/>
 
+-->
 
 
 
+
+
+## GitHub Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=034-BikashKumarYadav&theme=github)
+
+
+<!--
 ## Badges 
 
+[![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=034-BikashKumarYadav&bg_color=ffffff&color=000000&line=2ecc71&point=2ecc71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=034-BikashKumarYadav&theme=onedark&column=11" alt="zumrudu-anka" />
     </a>
 </div>
+-->
 
 
 
