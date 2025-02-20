@@ -41,7 +41,7 @@
 
 ## Technical Skills
 * Programming Languages: C++, Python, Java, JavaScript
-* Web Technologies: HTML/CSS/TypeScript/ React.js/Spring Boot/Microservices/Rest API
+* Web Technologies: HTML / CSS / TypeScript / React.js / Spring Boot / Microservices /Rest API
 * Database Systems: SQL, PostgreSQL, MongoDB
 * DevOps and API Tools: Git, Docker, Postman, RESTful APIs
 * Cloud and Security Tools: AWS, Bash Scripting
