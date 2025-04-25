@@ -126,7 +126,7 @@
 
 
 ## Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=034-BikashKumarYadav&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikashkumaryadav&theme=github)
 
 
 <!--
