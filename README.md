@@ -8,13 +8,13 @@
 # BIKASH KUMAR YADAV 
  Master of Computer Applications (MCA '24)                                                   
  National Institute of Technology, Tiruchirappalli, India <br>
-[Competitive Programming](#) | [Web Development](#) | [Artificial Intelligence](#) | [DevOps](#) | [Open Source](#) <br>
+[Competitive Programming](#) | [Web Development](#) | [Artificial Intelligence](#) | [Open Source](#) <br>
  
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaduvanshibikash1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bikash-kumar-yadav-461237223/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=about&logoColor=white)](https://034-bikashkumaryadav.github.io/Personal-Portfolio-Portal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=about&logoColor=white)](https://bikashkumaryadav.github.io/)
 [![Blogs](https://img.shields.io/badge/Blogs-0F9D58?style=for-the-badge&logo=rss&logoColor=FFFFFF)](#)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/034-BikashKumarYadav)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=0F9D58)](https://www.hackerrank.com/yaduvanshibikash)
