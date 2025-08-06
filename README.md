@@ -1,4 +1,5 @@
 <a> <img  height="" src="https://komarev.com/ghpvc/?username=034-BikashKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="034-BikashKumarYadav" /></a> <br>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&background=FFFFFF00&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG">
@@ -6,12 +7,12 @@
 </div>
 <div align="center">
   <a href="mailto:yaduvanshibikash1998@gmail.com">
-    <img src="./chat.svg" alt="Let's Chat!" width="500"/>
+    <img src="./chat.svg" alt="Let's Chat!" width="400"/>
   </a>
 </div>
 
-## BIKASH KUMAR YADAV 
- Master of Computer Applications (MCA '24)
+# BIKASH KUMAR YADAV 
+ Master of Computer Applications (MCA '24)<br>
  National Institute of Technology, Tiruchirappalli, India <br>
 [Competitive Programming](#) | [Web Development](#) | [Artificial Intelligence](#) | [Open Source](#) <br>
 
