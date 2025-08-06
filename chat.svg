@@ -1,4 +1,4 @@
-<svg width="550" height="420" viewBox="0 0 550 420" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="530" height="332" viewBox="0 0 530 332" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -58,12 +58,26 @@
     }
 
     .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 14.2s;
+      animation: wait 14.2s, msg-6 0.2s 16.7s;
     }    
     
     .typing-5 {
       opacity: 0;
       animation: wait 10s, fade-in-out 1.5s 10s;
+    }    
+    
+    .typing-6 {
+      opacity: 0;
+      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
+    }
+
+    .typing-7 {
+      opacity: 0;
+      animation: wait 15s, fade-in-out 1.5s 15s;
+    }
+
+    .msg-7 {
+      animation: wait 16.7s, msg-6 0.2s 14.2s;
     }    
     
     @keyframes wait {
@@ -149,6 +163,17 @@
         transform: translate(10px, 288px);
       }
     }
+
+    @keyframes msg-7 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 341px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 336px);
+      }
+    }    
     
     @media (prefers-color-scheme: dark) {
       .bubble {
@@ -250,7 +275,7 @@
   </g>
 
   <!-- typing 2 -->
-  <g transform="translate(10, 48)" class="typing-2">
+  <g transform="translate(70, 48)" class="typing-2">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -268,7 +293,7 @@
   </g>
 
   <!-- I'm Bikash... -->
-  <g transform="translate(10, 48)" class="msg-2">
+  <g transform="translate(70, 48)" class="msg-2">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm Bikash — building, learning, and</text>
     <text x="15" y="50">growing through code.</text>
@@ -300,7 +325,7 @@
 
 
   <!-- typing 5 -->
-  <g transform="translate(10, 250)" class="typing-5">
+  <g transform="translate(70, 200)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -318,17 +343,17 @@
   </g>
 
   <!-- Thank you for visiting! -->
-  <g transform="translate(10, 250)" class="msg-5">
+  <g transform="translate(70, 200)" class="msg-5">
     <rect width="450" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thank you for visiting my GitHub profile</text>    
+    <text x="15" y="27">Thank you for visiting my GitHub profile 😊</text>    
   </g> 
 
 
 
 
   <!-- Let's connect! -->
-  <g transform="translate(10, 350)" class="msg-6">
+  <g transform="translate(10, 270)" class="msg-6">
     <rect width="500" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Let's connect and build something great together!</text>
+    <text x="15" y="27">Let's connect and build something great together! 🚀</text>
   </g>
 </svg>
