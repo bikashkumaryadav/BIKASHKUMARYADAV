@@ -255,7 +255,7 @@
   </g>
 
   <!-- typing 2 -->
-  <g transform="translate(580, 48)" class="typing-2">
+  <g transform="translate(610, 48)" class="typing-2">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -273,7 +273,7 @@
   </g>
 
   <!-- I'm Bikash... -->
-  <g transform="translate(200, 48)" class="msg-2">
+  <g transform="translate(240, 48)" class="msg-2">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm Bikash — building, learning, and</text>
     <text x="15" y="50">growing through code.</text>
@@ -305,7 +305,7 @@
 
 
   <!-- typing 5 -->
-  <g transform="translate(580, 200)" class="typing-5">
+  <g transform="translate(610, 200)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -323,7 +323,7 @@
   </g>
 
   <!-- Thank you for visiting! -->
-  <g transform="translate(200, 200)" class="msg-5">
+  <g transform="translate(240, 200)" class="msg-5">
     <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thank you for visiting my GitHub profile 😊</text>    
   </g> 

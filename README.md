@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   <a href="mailto:yaduvanshibikash1998@gmail.com">
-    <img src="./chat.svg" alt="Let's Chat!" width="400"/>
+    <img src="./chat.svg" alt="Let's Chat!" width="350"/>
   </a>
 </div>
 
