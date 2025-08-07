@@ -1,5 +1,4 @@
-<a> <img  height="" src="https://komarev.com/ghpvc/?username=034-BikashKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="034-BikashKumarYadav" /></a> <br>
-
+<a> <img  height="" src="https://komarev.com/ghpvc/?username=034-BikashKumarYadav&label=Profile%20views&color=0e75b6&style=flat" alt="034-BikashKumarYadav" /></a>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&background=FFFFFF00&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG">
@@ -43,10 +42,10 @@
  ## Relevant Coursework
  <strong>Data Structures and Algorithms</strong>, <strong>Object-Oriented Programming</strong>, <strong>DBMS</strong>, <strong>Operating Systems</strong>, <strong>Computer Networks</strong>, <strong>Cloud Computing</strong>, <strong>Software Engineering Principles</strong>, <strong>Distributed Technology</strong>
 
-
+<!--
 ## Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikashkumaryadav&theme=github)
-
+-->
 ## GitHub Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/bikashkumaryadav/BIKASHKUMARYADAV/output/github-contribution-grid-snake.svg" alt="Snake animation" />
