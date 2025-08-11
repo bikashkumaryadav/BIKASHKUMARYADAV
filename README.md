@@ -17,8 +17,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaduvanshibikash1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bikash-kumar-yadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashkumaryadav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F8ACB?style=for-the-badge&logo=vercel&logoColor=white)](https://whoisbikash-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/205121034)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F8ACB?style=for-the-badge&logo=vercel&logoColor=white)](https://205121034.vercel.app/)
 <!--[![Blogs](https://img.shields.io/badge/Blogs-FFA500?style=for-the-badge&logo=rss&logoColor=white)](#)
 -->
 [![Codeforces](https://img.shields.io/badge/Codeforces-E53935?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
@@ -35,7 +35,7 @@
 *  <strong>Web Technologies:</strong> HTML/CSS/TypeScript/ React.js /Spring Boot /Node.js /Rest API
 * <strong>Database Systems:</strong> SQL, PostgreSQL, MongoDB
 * <strong>DevOps and API Tools:</strong> Git, Docker, Postman, RESTful APIs
-* <strong>Cloud and Security Tools:</strong> AWS, Bash Scripting
+* <strong>Cloud and Security Tools:</strong> AWS, Shell Scripting
 * <strong>Tools & OS:</strong> Microsoft Office, Latex, Mac, Windows, Linux
 * <strong>Soft Skills:</strong> Problem-Solving, Agile (Scrum/Kanban), Debugging, Critical Thinking
 
